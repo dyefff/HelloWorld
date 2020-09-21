@@ -1,3 +1,4 @@
+![headshot](edy.jpg)
 # HelloWorld
 Repository pertama di github
 
